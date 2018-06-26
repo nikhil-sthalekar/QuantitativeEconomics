@@ -1,5 +1,7 @@
 # QuantitativeEconomics
 lectures.quantecon.org
 
-Julia intro course on quantitative economics.
+Learning some Julia and some Quantitative Economics!
+
+
 
